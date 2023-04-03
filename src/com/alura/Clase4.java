@@ -1,5 +1,7 @@
-package br.com.alura;
+package com.alura;
 
+
+import com.alura.modelo.Curso;
 
 import java.util.ArrayList;
 

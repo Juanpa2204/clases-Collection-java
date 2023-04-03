@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ebbbafd-8bd8-4b27-912a-3d2a29729202" name="Changes" comment="clase Collections java">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Clase4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/Curso.java" afterDir="false" />
+    <list default="true" id="7ebbbafd-8bd8-4b27-912a-3d2a29729202" name="Changes" comment="clase 4 java collections ArrayList de objeetos">
+      <change afterPath="$PROJECT_DIR$/src/com/alura/Clase5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alura/Clase6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alura/modelo/Clase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Clase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alura/Clase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Clase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alura/Clase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Clase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alura/Clase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alura/Clase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/alura/modelo/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +48,44 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alura" />
+      <recent name="modelo" />
       <recent name="br.com.alura" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Clase6">
+    <configuration name="Clase5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.Clase5" />
+      <module name="ColletionsAlura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.Clase6" />
+      <module name="ColletionsAlura" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Clase6" />
+        <item itemvalue="Application.Clase5" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680471768303</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="clase 4 java collections ArrayList de objeetos">
+      <created>1680562055746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680562055746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="clase Collections java" />
-    <option name="LAST_COMMIT_MESSAGE" value="clase Collections java" />
+    <MESSAGE value="clase 4 java collections ArrayList de objeetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="clase 4 java collections ArrayList de objeetos" />
   </component>
 </project>

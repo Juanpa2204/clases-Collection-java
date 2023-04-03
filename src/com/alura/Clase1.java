@@ -1,4 +1,4 @@
-package br.com.alura;
+package com.alura;
 
 import java.util.ArrayList;
 
