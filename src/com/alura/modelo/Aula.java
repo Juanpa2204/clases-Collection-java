@@ -1,6 +1,6 @@
 package com.alura.modelo;
 
-public class Clase {
+public class Aula {
 
     private String nombre;
 
@@ -12,7 +12,7 @@ public class Clase {
         this.nombre = nombre;
     }
 
-    public Clase(String nombre) {
+    public Aula(String nombre) {
         this.nombre = nombre;
     }
 
