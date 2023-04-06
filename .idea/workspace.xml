@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ebbbafd-8bd8-4b27-912a-3d2a29729202" name="Changes" comment="clase 9 java collections metodo streams">
-      <change afterPath="$PROJECT_DIR$/src/com/alura/Clase10.java" afterDir="false" />
+    <list default="true" id="7ebbbafd-8bd8-4b27-912a-3d2a29729202" name="Changes" comment="clase 11 implementando interface set">
+      <change afterPath="$PROJECT_DIR$/src/com/alura/Clase12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alura/Clase13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alura/Clase14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/alura/modelo/Alumno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +44,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alura.modelo" />
       <recent name="com.alura" />
       <recent name="modelo" />
       <recent name="br.com.alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clase10">
+  <component name="RunManager" selected="Application.Clase14">
     <configuration name="Clase10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.alura.Clase10" />
       <module name="ColletionsAlura" />
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alura.Clase6" />
+    <configuration name="Clase11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.Clase11" />
       <module name="ColletionsAlura" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alura.Clase7" />
+    <configuration name="Clase12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.Clase12" />
       <module name="ColletionsAlura" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alura.Clase8" />
+    <configuration name="Clase13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.Clase13" />
       <module name="ColletionsAlura" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.alura.Clase9" />
+    <configuration name="Clase14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.Clase14" />
       <module name="ColletionsAlura" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clase14" />
+        <item itemvalue="Application.Clase13" />
+        <item itemvalue="Application.Clase12" />
+        <item itemvalue="Application.Clase11" />
         <item itemvalue="Application.Clase10" />
-        <item itemvalue="Application.Clase9" />
-        <item itemvalue="Application.Clase8" />
-        <item itemvalue="Application.Clase7" />
-        <item itemvalue="Application.Clase6" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680652195531</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="clase 10 java otros metodos usando collections y streams">
+      <created>1680653239205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680653239205</updated>
+    </task>
+    <task id="LOCAL-00007" summary="clase 11 implementando interface set">
+      <created>1680738199846</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680738199846</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +204,8 @@
     <MESSAGE value="clase 5,6 java collections ArrayList de objetos" />
     <MESSAGE value="clase 6, 7 , 8java collections ArrayList de objetos" />
     <MESSAGE value="clase 9 java collections metodo streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="clase 9 java collections metodo streams" />
+    <MESSAGE value="clase 10 java otros metodos usando collections y streams" />
+    <MESSAGE value="clase 11 implementando interface set" />
+    <option name="LAST_COMMIT_MESSAGE" value="clase 11 implementando interface set" />
   </component>
 </project>
