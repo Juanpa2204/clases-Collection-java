@@ -8,7 +8,7 @@ public class Curso {
     private int tiempo;
     private List<Aula> aulaList = new ArrayList<>();
     private Collection<Alumno> alumnos = new HashSet<>();
-
+    //private Collection<Alumno> alumnos = new LinkedList<>();
     public String getNombre() {
         return nombre;
     }
