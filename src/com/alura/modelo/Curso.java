@@ -9,6 +9,8 @@ public class Curso {
     private List<Aula> aulaList = new ArrayList<>();
     private Collection<Alumno> alumnos = new HashSet<>();
     //private Collection<Alumno> alumnos = new LinkedList<>();
+   private Map<String, Alumno> alumnoMap = new HashMap<>();
+    //private Map<String, Alumno> alumnoMap = new LinkedHashMap<>();
     public String getNombre() {
         return nombre;
     }
@@ -45,7 +47,7 @@ public class Curso {
     }
 
     public void addAlumno(Alumno alumno){
-        this.alumnos.add(alumno);
+        this.alumnos.add(alumno); this.alumnoMap.put(alumno.getCodigo(), alumno);
     }
 
     public Collection<Alumno> getAlumnos() {
@@ -56,6 +58,10 @@ public class Curso {
 
     public void setAulaList(List<Aula> aulaList) {
         this.aulaList = aulaList;
+    }
+
+    public Map<String, Alumno> getAlumnoMap() {
+        return alumnoMap;
     }
 
     @Override
